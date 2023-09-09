@@ -1,0 +1,4 @@
+server backend đã được chuyển vào chung file standard, 
+
+	-cd standard, cd server => npm run server: chạy server
+	-cd standard => npm start: chạy app
